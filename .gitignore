@@ -1,5 +1,6 @@
 # local
 *.DS_Store
+dev/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
